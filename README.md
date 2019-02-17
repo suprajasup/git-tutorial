@@ -1,4 +1,4 @@
-# My Git Pratice
+# My Git Practice
 
 ## This is subtitle
 
